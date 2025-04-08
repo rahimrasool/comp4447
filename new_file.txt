@@ -1,1 +1,3 @@
 Random message
+
+Adding a new feature
